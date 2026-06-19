@@ -8,7 +8,8 @@ The trained model is available on Kaggle Models: [shuvammaity40/roberta](https:/
 
 To load it directly from Kaggle in a notebook:
 
-\`\`\`python
+python
+\`\`\`
 import kagglehub
 
 model_path = kagglehub.model_download("shuvammaity40/roberta")
