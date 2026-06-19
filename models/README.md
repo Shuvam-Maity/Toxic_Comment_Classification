@@ -17,6 +17,7 @@ model_path = kagglehub.model_download("shuvammaity40/roberta")
 
 Or download manually via the Kaggle CLI:
 
-\`\`\`bash
+bash
+\`\`\`
 kaggle models instances versions download shuvammaity40/roberta
 \`\`\`
