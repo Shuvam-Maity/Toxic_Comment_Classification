@@ -47,4 +47,4 @@ The plain Logistic Regression model is precision-heavy but misses a lot of toxic
 
 ## License
 
-MIT — see [LICENSE](LICENSE)
+MIT
