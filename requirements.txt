@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+scikit-learn
+imbalanced-learn
+torch
+transformers
+datasets
+accelerate
+jupyter
