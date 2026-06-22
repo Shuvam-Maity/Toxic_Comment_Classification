@@ -8,12 +8,12 @@ This project tackles the [Jigsaw Toxic Comment Classification Challenge](https:/
 
 ```
 .
-├── data/                             # train.csv goes here (see data/README.md)
+├── data/                           # train.csv goes here (see data/README.md)
+├── models/                           # Trained model saved here (see models/README.md)
 ├── notebooks/
 │   ├── 01_eda.ipynb                  # Class balance, comment length, word clouds
 │   ├── 02_baseline_model.ipynb       # TF-IDF + Logistic Regression baselines
 │   └── 03_roberta_finetuning.ipynb   # Fine-tuned roberta-base classifier                            
-├── models/                           # Trained model saved here (see models/README.md)
 ├── .gitignore                        
 ├── README.md
 └── requirements.txt
